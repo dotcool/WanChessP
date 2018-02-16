@@ -2,7 +2,7 @@
 wanchess-万华五子棋，经典的中国传统五子棋玩法，先形成5子连线者获胜。
 支持人机，蓝牙连接对战。
 
-![]()
+![](https://github.com/lilanshengTech/WanChessP/blob/master/wanchessbg.png)
 
 简介：
 
